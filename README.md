@@ -20,4 +20,4 @@ No known bugs.
 
 MIT License
 
-Copyright (c) 2016 **Michelle Brecunier*
+Copyright (c) 2016 **Michelle Brecunier**
