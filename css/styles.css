@@ -1,3 +1,10 @@
+.jumbotron {
+  align-items: center;
+  padding-left: 15%;
+
+}
+
+
 @media (min-width: 768px) {
   .navbar-collapse {
     height: auto;
@@ -19,8 +26,10 @@
 	max-width:200px;
 	margin-right: 0;
 	margin-left: 0;
+  float: left;
 }
 
+/*keeps each nav link on it's own line*/
 .navbar-nav,
 .navbar-nav > li,
 .navbar-header
