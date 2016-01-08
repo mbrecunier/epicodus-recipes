@@ -13,9 +13,6 @@
     padding-bottom: 0;
     overflow: visible !important;
   }
-  .navbar-collapse.in {
-    overflow-x: visible;
-  }
 
 .navbar
 {
@@ -26,13 +23,7 @@
 
 .navbar-nav,
 .navbar-nav > li,
-.navbar-left,
-.navbar-right,
 .navbar-header
 {float:none !important;}
 
-.navbar-right .dropdown-menu {left:0;right:auto;}
-.navbar-collapse .navbar-nav.navbar-right:last-child {
-    margin-right: 0;
-}
 }
