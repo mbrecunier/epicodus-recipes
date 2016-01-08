@@ -1,38 +1,17 @@
+body {
+  background-color: #F6FDBE;
+}
+
 .jumbotron {
   align-items: center;
   padding-left: 15%;
+  padding-right: 5%;
+  background-color: #9CB798;
+  border-top: solid #5D5D5D 2px;
+  border-bottom: solid #5D5D5D 2px;
 
 }
 
-
-@media (min-width: 768px) {
-  .navbar-collapse {
-    height: auto;
-    border-top: 0;
-    box-shadow: none;
-    max-height: none;
-    padding-left:0;
-    padding-right:0;
-  }
-  .navbar-collapse.collapse {
-    display: block !important;
-    width: auto !important;
-    padding-bottom: 0;
-    overflow: visible !important;
-  }
-
-.navbar
-{
-	max-width:200px;
-	margin-right: 0;
-	margin-left: 0;
-  float: left;
-}
-
-/*keeps each nav link on it's own line*/
-.navbar-nav,
-.navbar-nav > li,
-.navbar-header
-{float:none !important;}
-
+.jumbotron small {
+  color: #E0E0E0;
 }
