@@ -15,3 +15,11 @@ body {
 .jumbotron small {
   color: #E0E0E0;
 }
+
+.carousel-inner > .item img {
+  margin: auto;
+}
+
+.carousel-control .glyphicon {
+    position: absolute;
+    top: 50%;
