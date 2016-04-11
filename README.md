@@ -6,11 +6,16 @@
 
 ## Description
 
-This is an exercise in using bootstrap to create responsive design. It includes a navbar and carousel.
+This is an Epicodus project using bootstrap to create responsive design. It includes a navbar and carousel.
 
 ## Setup/Installation Requirements
 
-Download this repository.
+* Clone this repository 
+* Open index.html in your web browser
+
+--or--
+
+* View on [github pages] (http://mbrecunier.github.io/epicodus-recipes/)
 
 ## Known Bugs
 
